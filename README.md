@@ -34,5 +34,8 @@ https://superheroes-rp2h.onrender.com/powers/4
 https://superheroes-rp2h.onrender.com/heros/9
 
 
+# Author: Spencer Mwenda Murithi
+
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.

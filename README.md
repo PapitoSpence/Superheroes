@@ -19,14 +19,18 @@ To view all superheroes in the database, simply visit the homepage. You can clic
 Adding Superheroes
 To add a new superhero, click the "Add Superhero" button on the homepage. Fill out the form with the superhero's information and click "Submit" to add them to the database.
 
-Editing Superheroes
-To edit an existing superhero, click on their name to view their information. Then click the "Edit" button and make any changes you want. Click "Submit" to save the changes to the database.
-
 Deleting Superheroes
 To delete a superhero, click on their name to view their information. Then click the "Delete" button to remove them from the database.
 
-Contributing
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the repository. If you'd like to contribute code, please fork the repository and submit a pull request.
+# Deployed Link
+https://superheroes-rp2h.onrender.com/heros
 
-License
+https://superheroes-rp2h.onrender.com/powers
+
+https://superheroes-rp2h.onrender.com/powers/4
+
+https://superheroes-rp2h.onrender.com/heros/9
+
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for more information.

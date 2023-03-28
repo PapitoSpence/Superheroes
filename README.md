@@ -4,11 +4,13 @@ This repository contains a Rails application that allows users to view, add, edi
 # Installation
 To install and run this application, follow these steps:
 
+<li>
 Clone the repository using git clone git@github.com:PapitoSpence/Superheroes.git
 Install the dependencies using bundle install
 Set up the database by running rails db:create, rails db:migrate, and rails db:seed
 Start the server using rails server
 Note: This application requires Ruby and PostgreSQL to be installed on your system.
+  </li>
 
 # Usage
 Once the server is running, you can access the web interface by visiting http://localhost:3000 in your web browser. From there, you can view, add, edit, and delete superheroes.

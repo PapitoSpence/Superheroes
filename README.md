@@ -3,13 +3,14 @@ This repository contains a Rails application that allows users to view, add, edi
 
 # Installation
 To install and run this application, follow these steps:
+
 <ul>
-<li>
-Clone the repository using git clone git@github.com:PapitoSpence/Superheroes.git
-Install the dependencies using bundle install
-Set up the database by running rails db:create, rails db:migrate, and rails db:seed
-Start the server using rails server
+  <li>Clone the repository using git clone git@github.com:PapitoSpence/Superheroes.git</li>
+  <li>Install the dependencies using bundle install</li>
+  <li>Set up the database by running rails db:create, rails db:migrate, and rails db:seed</li>
+  <li>Start the server using rails server</li>
   </ul>
+
 Note: This application requires Ruby and PostgreSQL to be installed on your system.
   
 

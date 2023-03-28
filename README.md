@@ -10,8 +10,6 @@ To install and run this application, follow these steps:
   <li>Set up the database by running rails db:create, rails db:migrate, and rails db:seed</li>
   <li>Start the server using rails server</li>
   </ul>
-
-Note: This application requires Ruby and PostgreSQL to be installed on your system.
   
 
 # Usage

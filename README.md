@@ -1,5 +1,5 @@
 # Superheroes
-This repository contains a Rails application that allows users to view, add, edit, and delete superheroes. The application uses the Model-View-Controller (MVC) architecture and a PostgreSQL database.
+This repository contains a Rails application that allows users to view, add, edit, and delete superheroes. The application uses the Model-View-Controller (MVC) architecture and Sqlite database.
 
 # Installation
 To install and run this application, follow these steps:
@@ -33,8 +33,10 @@ https://superheroes-rp2h.onrender.com/powers/4
 
 https://superheroes-rp2h.onrender.com/heros/9
 
+
 # Author:
-Spencer Mwenda Murithi
+Spencer Mwenda Murithi.
+
 
 # License
 This project is licensed under the MIT License. 
